@@ -1,0 +1,11 @@
+ER DIAGRAM (Text Representation)
+
+[Note]
+- id (PK)
+- title
+- author
+- datetime
+- body
+- classification
+
+(No relationships since it's a single entity system)
